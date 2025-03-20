@@ -1,0 +1,33 @@
+.techstack {
+  text-align: center;
+  padding: 50px;
+  background-color: #f8f9fa;
+}
+
+.tech-icons {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+
+.tech-icons span {
+    padding: 12px 15px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: bold;
+    border: none;
+    background: linear-gradient(to right, #ff416c, #ff4b2b);
+    color: white;
+    transition: all 0.3s ease-in-out;
+    width: 10%;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);
+}
+.tech-icons span:hover{
+  transform: scale(1.05);
+    background: linear-gradient(to right, #ff4b2b, #ff416c)
+}
+
+.tech-icons span:hover {
+  transform: scale(1.1);
+}

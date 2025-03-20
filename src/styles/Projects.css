@@ -1,0 +1,19 @@
+.projects {
+  padding: 50px;
+  text-align: center;
+  background: #fff;
+}
+.projects ul {
+  list-style: none;
+}
+.projects ul li {
+  margin: 10px 0;
+  background: linear-gradient(to right, #ff416c, #ff4b2b) !important;
+}
+.projects ul li:hover{
+  background: linear-gradient(to right, #ff4b2b, #ff416c) !important;
+}
+.projects ul li a {
+  text-decoration: none;
+  color: #060606;
+}
