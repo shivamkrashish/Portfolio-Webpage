@@ -9,7 +9,7 @@ function Contact() {
       <p>Phone: 7903819844</p>
       <p>GitHub: <a href="https://github.com/shivamkrashish" target="_blank">shivamkrashish</a></p>
       <p>LinkedIn: <a href="https://www.linkedin.com/in/shivam-kumar-ashish-b773ab31a/" target="_blank" rel="noopener noreferrer">Shivam Kumar Ashish</a></p>
-      <a href="public/resume.pdf" download className="resume-button">Download Resume</a>
+      <a href="/assents/resume.pdf" download className="resume-button">Download Resume</a>
     </section>
   );
 }
