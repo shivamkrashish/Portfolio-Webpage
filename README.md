@@ -4,6 +4,7 @@ This is my personal portfolio website that showcases my skills, projects, achiev
 
 ## Technologies Used
 
+
 - **Frontend**: HTML, CSS, JavaScript
 - **Styling**: Tailwind CSS (for responsive design and utility-first styling)
 - **Animations**: Framer Motion (for smooth animations)
